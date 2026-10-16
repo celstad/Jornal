@@ -1,4 +1,4 @@
 # Journal
-##Vocab
--word
---defionition
+## Vocab
+- word
+-- defionition
